@@ -1,8 +1,10 @@
 # Credit-Card-Approval-Prediction_SAS-Model
 Analyzing the customer’s information from the dataset, including credit history, income, employment status, and other relevant features, to predict whether an applicant is likely to be a responsible cardholder.  
 
+
 # Business Problem
 To predict the approval of the customer’s credit card application.
+
 
 # Table of Contents
 1. SAS File:
@@ -13,6 +15,7 @@ To predict the approval of the customer’s credit card application.
 - [Credit Card Approval Prediction_Presentation.pptx](https://github.com/Xue-Liu-Alexia/Credit-Card-Approval-Prediction_SAS-Model/blob/main/Credit%20Card%20Approval%20Prediction_Presentation.pptx)
 4. Data Sets:
 - [Credit_card.csv](https://github.com/Xue-Liu-Alexia/Credit-Card-Approval-Prediction_SAS-Model/blob/main/Credit_card.csv)
+
 
 # About Dataset
 Ind_ID: Client ID
